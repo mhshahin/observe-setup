@@ -1,2 +1,2 @@
-# observe-setup
+# ocserve-setup
 OpenConnect Server Setup Script
